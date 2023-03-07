@@ -1,3 +1,3 @@
 # Test repository
 
-For testing
+Credits to math-study for the code
