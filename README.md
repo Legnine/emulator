@@ -21,4 +21,8 @@ Nintendo DS
 SegaMD
 --------------
 
+You have to upload your own ROMs
+
+Does not support mobile devices :(
+
 Credits to math-study for the code
